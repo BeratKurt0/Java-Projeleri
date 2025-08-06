@@ -1,6 +1,6 @@
-<h3>Java Projeleri:</h3>
+### Java Projeleri:
 Bu proje depomda paylaşacağım, üniversite döneminde üzerine çok uğraştığım ve
-edindiğim tecrübeler ile birlikte `Java - Projeleri`, birçok konuda java programlama
+edindiğim tecrübeler ile birlikte `Java Projeleri`, birçok konuda java programlama
 dili ile projeler, temel konular, ve OOP felsefesini aktarmaya çalışacağım. 
 
 `Eğer java öğrenmek isterseniz`,
